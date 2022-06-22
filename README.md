@@ -2,7 +2,7 @@
 > Python 3 app. The bot automatically follows followers or following of the targeted account.
 
 ## How to use
-1. In the main.py file insert your login data into USERNAME and PASSOWORD constants
+1. In the main.py file insert your login data into USERNAME and PASSWORD constants
 2. Run the main.py
 3. Enter the required data in the program
 
